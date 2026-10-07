@@ -1,2 +1,4 @@
 *.docx
 *.odt
+__pycache__/
+*.pyc
